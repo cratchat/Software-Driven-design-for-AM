@@ -1,5 +1,4 @@
 Software-Driven Design for Additive Manufacturing
-
 Computational Design, Topology Optimization, and Generative Design
 
 📘 Lecture Slides & Teaching Materials
@@ -8,7 +7,7 @@ Affiliation: Chulalongkorn University – Mechanical Engineering
 
 📌 Overview
 
-This repository accompanies the lecture “Software-Driven Design for Additive Manufacturing”, which introduces the theory, workflow, and intuition behind computational-driven design, with a focus on:
+This repository accompanies the lecture “Software-Driven Design for Additive Manufacturing”. It introduces the theory, workflow, and intuition behind computational-driven design, with a focus on:
 
 Topology Optimization
 
@@ -37,3 +36,11 @@ Describe common optimization approaches such as SIMP and ESO
 Interpret why optimized structures often appear organic and non-intuitive
 
 Relate computational design methods to additive manufacturing advantages
+
+📁 Included Files
+CAD / Design Space Example
+
+CAD/Fin gripper Design space.f3z
+Description: Fusion 360 archive illustrating design space definition for a Fin Ray gripper / palm-pad style component.
+Use in lecture: Demonstrate starting shape, preserve/obstacle geometry, constraints/loads, and how these define the allowable optimization region.
+
